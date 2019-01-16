@@ -54,7 +54,7 @@
     "npm-run-all": "4.0.2",
     "nyc": "10.1.2",
     "rimraf": "2.6.1",
-    "semantic-release": "^6.3.2",
+    "semantic-release": "6.3.6",
     "webpack": "2.2.1"
   },
   "czConfig": {
