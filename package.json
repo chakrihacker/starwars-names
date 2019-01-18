@@ -47,7 +47,7 @@
     "babel-register": "6.26.0",
     "chai": "3.5.0",
     "codecov.io": "0.1.6",
-    "ghooks": "2.0.0",
+    "ghooks": "2.0.4",
     "istanbul": "0.4.5",
     "json-loader": "0.5.4",
     "mocha": "3.2.0",
